@@ -1,7 +1,5 @@
 # HTML
 Repository Structure
-css
-Copy code
 html-java-integration/
 ├── servlets/
 │   └── src/
@@ -31,6 +29,7 @@ html-java-integration/
 │           └── application.properties
 │           └── Application.java
 └── README.md
+
 
 ### 1. Servlets
 HelloServlet.java
