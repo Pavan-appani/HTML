@@ -21,6 +21,8 @@ Java can be integrated with HTML in various ways to create dynamic and interacti
 1. Servlets
 Servlets are Java programs that run on a web server, handle client requests, and generate dynamic web content. A servlet can generate HTML content and send it to the client's browser.
 
+java
+
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
