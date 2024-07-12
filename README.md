@@ -31,7 +31,8 @@ html-java-integration/
 │           └── application.properties
 │           └── Application.java
 └── README.md
-1. Servlets
+
+### 1. Servlets
 HelloServlet.java
 java
 Copy code
@@ -69,7 +70,9 @@ Copy code
         <url-pattern>/hello</url-pattern>
     </servlet-mapping>
 </web-app>
-2. JSP
+
+
+### 2. JSP
 hello.jsp
 jsp
 Copy code
@@ -87,7 +90,9 @@ Copy code
     %>
 </body>
 </html>
-3. Spring Boot with Thymeleaf
+
+        
+ ### 3. Spring Boot with Thymeleaf
 HelloController.java
 java
 Copy code
